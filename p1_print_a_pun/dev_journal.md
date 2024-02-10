@@ -1,0 +1,2 @@
+- A very straight forward program to start with. It is "hello, world" which is something I always need to do. The tool chain was a bit different to Rust, I needed to use `cc` and pass the C program as an argument for it to create an executable file.
+- Creating an executable file is kinda interesting. I suspect that the executable is devoid of the C language and can run on other Unix systems once it's created. I don't think I can say the same about Rust programs. I think you need Rust installed to run Rust programs.
