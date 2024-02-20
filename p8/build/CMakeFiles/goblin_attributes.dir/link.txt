@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/goblin_attributes.dir/src/main.c.o -o goblin_attributes  -lncurses 

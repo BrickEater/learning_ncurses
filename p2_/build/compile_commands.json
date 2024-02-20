@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/goblin/Repos/100_projects_C/p2_/build",
+  "command": "/usr/bin/cc  -I/home/goblin/Repos/100_projects_C/p2_/include  -o CMakeFiles/rogue.dir/src/draw.c.o -c /home/goblin/Repos/100_projects_C/p2_/src/draw.c",
+  "file": "/home/goblin/Repos/100_projects_C/p2_/src/draw.c",
+  "output": "CMakeFiles/rogue.dir/src/draw.c.o"
+},
+{
+  "directory": "/home/goblin/Repos/100_projects_C/p2_/build",
+  "command": "/usr/bin/cc  -I/home/goblin/Repos/100_projects_C/p2_/include  -o CMakeFiles/rogue.dir/src/engine.c.o -c /home/goblin/Repos/100_projects_C/p2_/src/engine.c",
+  "file": "/home/goblin/Repos/100_projects_C/p2_/src/engine.c",
+  "output": "CMakeFiles/rogue.dir/src/engine.c.o"
+},
+{
+  "directory": "/home/goblin/Repos/100_projects_C/p2_/build",
+  "command": "/usr/bin/cc  -I/home/goblin/Repos/100_projects_C/p2_/include  -o CMakeFiles/rogue.dir/src/fov.c.o -c /home/goblin/Repos/100_projects_C/p2_/src/fov.c",
+  "file": "/home/goblin/Repos/100_projects_C/p2_/src/fov.c",
+  "output": "CMakeFiles/rogue.dir/src/fov.c.o"
+},
+{
+  "directory": "/home/goblin/Repos/100_projects_C/p2_/build",
+  "command": "/usr/bin/cc  -I/home/goblin/Repos/100_projects_C/p2_/include  -o CMakeFiles/rogue.dir/src/main.c.o -c /home/goblin/Repos/100_projects_C/p2_/src/main.c",
+  "file": "/home/goblin/Repos/100_projects_C/p2_/src/main.c",
+  "output": "CMakeFiles/rogue.dir/src/main.c.o"
+},
+{
+  "directory": "/home/goblin/Repos/100_projects_C/p2_/build",
+  "command": "/usr/bin/cc  -I/home/goblin/Repos/100_projects_C/p2_/include  -o CMakeFiles/rogue.dir/src/map.c.o -c /home/goblin/Repos/100_projects_C/p2_/src/map.c",
+  "file": "/home/goblin/Repos/100_projects_C/p2_/src/map.c",
+  "output": "CMakeFiles/rogue.dir/src/map.c.o"
+},
+{
+  "directory": "/home/goblin/Repos/100_projects_C/p2_/build",
+  "command": "/usr/bin/cc  -I/home/goblin/Repos/100_projects_C/p2_/include  -o CMakeFiles/rogue.dir/src/player.c.o -c /home/goblin/Repos/100_projects_C/p2_/src/player.c",
+  "file": "/home/goblin/Repos/100_projects_C/p2_/src/player.c",
+  "output": "CMakeFiles/rogue.dir/src/player.c.o"
+},
+{
+  "directory": "/home/goblin/Repos/100_projects_C/p2_/build",
+  "command": "/usr/bin/cc  -I/home/goblin/Repos/100_projects_C/p2_/include  -o CMakeFiles/rogue.dir/src/room.c.o -c /home/goblin/Repos/100_projects_C/p2_/src/room.c",
+  "file": "/home/goblin/Repos/100_projects_C/p2_/src/room.c",
+  "output": "CMakeFiles/rogue.dir/src/room.c.o"
+}
+]

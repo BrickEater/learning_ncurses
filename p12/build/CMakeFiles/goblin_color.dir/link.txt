@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/goblin_color.dir/src/main.c.o -o goblin_color  -lncurses 

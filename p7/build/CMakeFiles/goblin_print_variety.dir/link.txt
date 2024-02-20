@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/goblin_print_variety.dir/src/main.c.o -o goblin_print_variety  -lncurses 

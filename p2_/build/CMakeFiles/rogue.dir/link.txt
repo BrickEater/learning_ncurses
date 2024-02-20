@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/rogue.dir/src/draw.c.o CMakeFiles/rogue.dir/src/engine.c.o CMakeFiles/rogue.dir/src/fov.c.o CMakeFiles/rogue.dir/src/main.c.o CMakeFiles/rogue.dir/src/map.c.o CMakeFiles/rogue.dir/src/player.c.o CMakeFiles/rogue.dir/src/room.c.o -o rogue  -lncurses -lm 
