@@ -1,0 +1,3 @@
+/home/goblin/Repos/100_projects_C/t2/build/CMakeFiles/goblin_text.dir
+/home/goblin/Repos/100_projects_C/t2/build/CMakeFiles/edit_cache.dir
+/home/goblin/Repos/100_projects_C/t2/build/CMakeFiles/rebuild_cache.dir

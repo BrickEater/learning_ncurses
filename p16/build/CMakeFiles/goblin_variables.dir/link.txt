@@ -1,0 +1,1 @@
+/sbin/cc CMakeFiles/goblin_variables.dir/src/main.c.o -o goblin_variables  -lncurses 

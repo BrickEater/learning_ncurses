@@ -1,0 +1,1 @@
+/sbin/cc CMakeFiles/goblin_vanish.dir/src/main.c.o -o goblin_vanish  -lncurses 

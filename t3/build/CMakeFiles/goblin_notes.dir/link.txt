@@ -1,0 +1,1 @@
+/sbin/cc CMakeFiles/goblin_notes.dir/src/main.c.o -o goblin_notes  -lncurses 

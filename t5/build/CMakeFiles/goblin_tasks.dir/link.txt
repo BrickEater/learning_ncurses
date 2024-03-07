@@ -1,0 +1,1 @@
+/sbin/cc CMakeFiles/goblin_tasks.dir/src/main.c.o -o goblin_tasks  -lncurses 

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(GoblinFiles)
+set(CMAKE_C_STANDARD 11)
+set(CMAKE_C_STANDARD_REQUIRED True)
+add_executable(goblin_files src/main.c)
+set_target_properties(goblin_files PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/build")

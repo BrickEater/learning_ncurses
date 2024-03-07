@@ -1,0 +1,1 @@
+/sbin/cc CMakeFiles/goblin_box.dir/src/main.c.o -o goblin_box  -lncurses 

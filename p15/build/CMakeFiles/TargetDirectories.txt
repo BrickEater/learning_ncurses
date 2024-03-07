@@ -1,0 +1,3 @@
+/home/goblin/Repos/100_projects_C/p15/build/CMakeFiles/goblin_vanish.dir
+/home/goblin/Repos/100_projects_C/p15/build/CMakeFiles/edit_cache.dir
+/home/goblin/Repos/100_projects_C/p15/build/CMakeFiles/rebuild_cache.dir

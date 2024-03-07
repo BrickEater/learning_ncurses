@@ -1,0 +1,1 @@
+/sbin/cc CMakeFiles/goblin_menu.dir/src/main.c.o -o goblin_menu  -lncurses -lmenu 

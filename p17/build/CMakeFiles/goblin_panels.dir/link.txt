@@ -1,0 +1,1 @@
+/sbin/cc CMakeFiles/goblin_panels.dir/src/main.c.o -o goblin_panels  -lncurses -lpanel 
